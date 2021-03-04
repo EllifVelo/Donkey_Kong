@@ -1,7 +1,0 @@
-﻿  Mario.cpp
-C:\Users\t.student\Desktop\Donkey_Kong\Donkey_Kong\Mario.h(8,1): warning C4005: N: изменение макроопределения
-C:\Users\t.student\Desktop\Donkey_Kong\Donkey_Kong\Platform.h(8): message : см. предыдущее определение "N"
-C:\Users\t.student\Desktop\Donkey_Kong\Donkey_Kong\Mario.cpp(13,36): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\t.student\Desktop\Donkey_Kong\Donkey_Kong\Mario.cpp(14,37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\t.student\Desktop\Donkey_Kong\Donkey_Kong\Mario.cpp(17,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-  Donkey_Kong.vcxproj -> C:\Users\t.student\Desktop\Donkey_Kong\Debug\Donkey_Kong.exe
